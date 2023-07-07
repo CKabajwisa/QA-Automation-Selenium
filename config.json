@@ -1,0 +1,10 @@
+{
+  "url": "https://www.automationexercise.com",
+  "username": "test@mailinator.com",
+  "password": "12345",
+  "card_number":"4100 0000 0000",
+  "expiry_date":"01",
+  "expiry_year":"1900",
+  "cvv":"123",
+  "name_on_card":"Test Card"
+}
